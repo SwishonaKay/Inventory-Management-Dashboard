@@ -1,4 +1,5 @@
 Inventory Management Dashboard
+
 This is a Power BI dashboard project designed to provide actionable insights into inventory data for better decision-making. It combines SQL queries, DAX measures, and Power BI visualizations to help businesses track stock levels, analyze sales trends, and identify opportunities for improvement.
 
 📊 Key Features
